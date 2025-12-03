@@ -11,4 +11,3 @@ public class cviceni {
         else System.out.println("ne");
     }
 }
-//comment
